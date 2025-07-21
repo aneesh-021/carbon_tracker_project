@@ -1,2 +1,5 @@
 streamlit
+matplotlib
 pdfkit
+requests
+jinja2
