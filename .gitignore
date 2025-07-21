@@ -1,0 +1,45 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+env/
+venv/
+ENV/
+.venv/
+
+# PDF output or temp reports
+*.pdf
+*.log
+*.tmp
+*.temp
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# VSCode / IDE settings
+.vscode/
+.idea/
+
+# Streamlit cache and logs
+.streamlit/
+.streamlit/cache/
+.streamlit/config.toml
+
+# pip download cache
+pip-wheel-metadata/
+*.egg-info/
+dist/
+build/
+
+# Notebook checkpoints (if used)
+.ipynb_checkpoints/
+
+# Secrets or config (if added manually)
+config.ini
+secrets.toml
+
+# wkhtmltopdf binaries or other local paths
+wkhtmltopdf.exe
